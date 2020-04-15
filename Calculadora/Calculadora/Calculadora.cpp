@@ -59,6 +59,7 @@ Depois o valor deve ser dividido por dois antes de entrar em uma nova iteração
         cout << "Opcao invalida";
     }
     cout << "Resultado: " << resultado << "\n";
+    system("pause");
     return 0;
 }
 
