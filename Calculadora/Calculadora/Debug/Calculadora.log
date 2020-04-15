@@ -1,0 +1,3 @@
+﻿  Calculadora.cpp
+C:\Users\ADMUNIVALI\source\repos\Calculadora\Calculadora\Calculadora.cpp(26,35): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  Calculadora.vcxproj -> C:\Users\ADMUNIVALI\source\repos\Calculadora\Debug\Calculadora.exe
